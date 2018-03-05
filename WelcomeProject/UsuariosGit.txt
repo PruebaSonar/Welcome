@@ -1,0 +1,2 @@
+git config user.email "prueba.sonar@yopmail.com"
+git config user.name “Prueba Sonar“
